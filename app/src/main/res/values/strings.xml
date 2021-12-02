@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IT</string>
+    <string name="month">Ежемесячное пополнение(в рублях):</string>
+    <string name="textview">TextView</string>
+    <string name="sum">Сумма(в рублях):</string>
+    <string name="period">Срок (месяцы):</string>
+    <string name="rate">Ставка (в процентах):</string>
+    <string name="count">Рассчёт</string>
+</resources>
